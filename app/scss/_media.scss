@@ -1,0 +1,176 @@
+@media (max-width: 1275px) {
+    .header__menu-list {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 1270px) {
+    .slider {
+        max-width: 673px;
+    }
+}
+
+@media (max-width: 1245px) {
+    .footer__collumn {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 1197px) {
+    .header__content {
+        justify-content: center;
+    }
+    .header__content-button {
+        margin: auto;
+    }
+    .header__content-title {
+        margin-top: 60px;
+    }
+    .help__icons-one {
+        margin: 0 10px 0 10px;
+    }
+}
+
+@media (max-width: 980px) {
+    .donation__collumns {
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+    .donation__title {
+        margin-top: 80px;
+    }
+    .donation__card-info {
+        margin: 20px 0 20px 0;
+    }
+}
+
+@media (max-width: 925px) {
+    .footer__content {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 885px) {
+    .slider {
+        max-width: 648px;
+    }
+    .about__inner {
+        justify-content: center;
+    }
+    .about__title {
+        margin-top: 42px;
+    }
+    .help__icons {
+        margin: 0 10px 0 10px;
+    }
+    .about__title {
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width: 790px) {
+    .slider {
+        max-width: 630px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header__content {
+        justify-content: center;
+        margin: 0 10px 0 10px;
+    }
+    .header__content-title {
+        margin-top: 60px;
+    }
+    .header__menu {
+        display: none;
+    }
+    .header__top {
+        max-width: 650px;
+    }
+    .header__burger {
+        display: flex;
+    }
+    .header__content-title {
+        text-align: center;
+    }
+    .header__content-text {
+        text-align: center;
+        margin-right: 10px;
+    }
+    .header__content-title {
+        margin: 60px auto auto;
+    }
+    .slider {
+        max-width: 306px;
+    }
+}
+
+@media (max-width: 667px) {
+    .about__collumn-left {
+        margin-left: 0px;
+        padding: 0 10px 0 10px;
+    }
+    .help__icons {
+        display: none;
+    }
+    .help__icons-mobile {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer__collumn {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 522px) {
+    .slider__slider-btn-prev {
+        left: 32px;
+        top: 450px;
+    }
+    .slider__slider-btn-next {
+        right: 78px;
+        top: 450px;
+    }
+    .friends__button {
+        margin-top: 95px;
+    }
+    .donation__image {
+        width: 95%;
+    }
+}
+
+@media (max-width: 466px) {
+    .help__icons-item {
+        text-align: left;
+    }
+    .help__text {
+        text-align: left;
+    }
+}
+
+@media (max-width: 450px) {
+    .header__content-title h2,
+    h2,
+    .donation__title,
+    .footer__title {
+        font-size: 25px;
+        text-align: center;
+    }
+    .help__icons-item {
+        text-align: left;
+    }
+}
+
+@media (max-width: 380px) {
+    .donation__collumn {
+        margin: 0 10px 0 10px;
+        text-align: center;
+    }
+    .donation__card-info {
+        font-size: 15px;
+    }
+}
